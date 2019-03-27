@@ -51,7 +51,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "u__progress"
 facebook:
   username               :
   app_id                 :
@@ -77,10 +77,10 @@ author:
   name             : 
   avatar           : "profile.png"
   bio              : "Hi, my name is Unnati."
-  location         : "Location"
-  employer         :
+  location         : "Blacksburg, VA"
+  employer         : "Virginia Tech"
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,10 +96,10 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "u__progress"
