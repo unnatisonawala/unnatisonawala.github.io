@@ -3,11 +3,11 @@
 locale                   : "en-US"
 title                    : "Unnati Sonawala"
 title_separator          : "-"
-name                     : &name ""
-description              : &description "Hi, my name is Unnati. I am a PhD candidate at Virginia. I am always ready to talk about plant-microbe interaction and evolution. When not lab working with plants, I like to learn languages: for computers and other wise."
+name                     : &name
+description              : 
 url                      : "https:/u2progress.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -51,7 +51,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "https://twitter.com/u__progress"
 facebook:
   username               :
   app_id                 :
@@ -76,38 +76,20 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Hi, my name is Unnati. I am a PhD candidate at Virginia. I am always ready to talk about plant-microbe interaction and evolution. When not lab working with plants, I like to learn languages: for computers and other wise."
+  location         : "Blacksburg, VA"
+  employer         : "Virgini Tech"
+  googlescholar    : 
+  email            : "unnati@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  orcid            : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  twitter          : ""https://twitter.com/u__progress""
+ 
 
 
 # Reading Files
