@@ -3,11 +3,11 @@
 locale                   : "en-US"
 title                    : "Unnati Sonawala"
 title_separator          : "-"
-name                     : &name
-description              : 
-url                      : "https:/u2progress.github.io" 
+name                     : &name "Unnati Sonawala"
+description              : &description "personal description"
+url                      : "https://u2progress.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : 
+repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -51,7 +51,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "https://twitter.com/u__progress"
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -74,22 +74,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : 
   avatar           : "profile.png"
-  bio              : "Hi, my name is Unnati. I am a PhD candidate at Virginia. I am always ready to talk about plant-microbe interaction and evolution. When not lab working with plants, I like to learn languages: for computers and other wise."
-  location         : "Blacksburg, VA"
-  employer         : "Virgini Tech"
-  googlescholar    : 
-  email            : "unnati@vt.edu"
+  bio              : "Hi, my name is Unnati."
+  location         : "Location"
+  employer         :
+  pubmed           : 
+  googlescholar    : ""
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  github           : 
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "u2progress"
   google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  twitter          : ""https://twitter.com/u__progress""
- 
+  steam            :
+  tumblr           :
+  twitter          : "u__progress"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
