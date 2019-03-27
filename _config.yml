@@ -10,7 +10,7 @@ twitter_username: u__progress
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
