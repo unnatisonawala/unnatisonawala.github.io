@@ -3,7 +3,7 @@ title: "Archive Layout with Content"
 layout: archive
 permalink: /archive-layout-with-content/
 ---
-
+<!---
 A variety of common markup showing how the theme styles them.
 
 # Header one
@@ -58,8 +58,8 @@ Do It Live
 
 ## Unordered Lists (Nested)
 
-  * List item one 
-      * List item one 
+  * List item one
+      * List item one
           * List item one
           * List item two
           * List item three
@@ -73,8 +73,8 @@ Do It Live
 
 ## Ordered List (Nested)
 
-  1. List item one 
-      1. List item one 
+  1. List item one
+      1. List item one
           1. List item one
           2. List item two
           3. List item three
@@ -175,3 +175,4 @@ This allows you to denote <var>variables</var>.
 {% for post in site.pages %}
 {% include archive-single.html %}
 {% endfor %}
+--->
