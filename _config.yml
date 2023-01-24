@@ -77,11 +77,11 @@ author:
   name             : 
   avatar           : "profile.jpg"
   bio              : "Hi, my name is Unnati."
-  location         : "Blacksburg, VA"
-  employer         : "Virginia Tech"
+  location         : "Cambridge, UK"
+  employer         : "University of Cambridge"
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=HQ5uNYAAAAAJ&view_op=list_works"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
