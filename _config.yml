@@ -225,8 +225,8 @@ defaults:
       type: projects
     values:
       layout: single
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
       comment: true
   # _talks
   - scope:
