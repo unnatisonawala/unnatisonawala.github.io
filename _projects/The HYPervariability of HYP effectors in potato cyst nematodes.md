@@ -3,6 +3,8 @@ title: "The HYPervariability of HYP effectors in potato cyst nematodes"
 excerpt: "<br/><img src='/images/HYP.png' width='320' height='250'>"
 collection: projects
 ---
+<b>June 2024 Update <b>: HYP paper has found a home! It is now available via Cell Genomics [here](10.1016/j.xgen.2024.100580)<br/>
+***<br/> 
 This story is now available as a preprint on bioRxiv and can be read [here](https://www.biorxiv.org/content/10.1101/2023.10.16.561705v1.abstract). If you have comments, suggestions or would like to discuss this with me, please feel free to reach out to me via email or other social media.<br/> 
 ***<br/> 
 Plants use a large arsenal of proteins to recognize and prevent pathogens from causing diseases. Any successful pathogen thus has to deploy proteins termed ‘effectors’ to suppress the plant’s defense system.<br/>
