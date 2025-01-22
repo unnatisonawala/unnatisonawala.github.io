@@ -52,6 +52,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : "u__progress"
+bluesky:
+  username               : "uprogress.bsky.social"
 facebook:
   username               :
   app_id                 :
