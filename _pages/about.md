@@ -15,4 +15,14 @@ I study plant-microbe interactions, and am currently working on deciphering the 
 If not in the lab mixing colourless liquids or wrangling some 'omics data at the computer, I am out dancing tango. If not dancing tango, I am either learning a new language or at the piano. Contact me if you would like to talk about any of them!
 
 
+<h4>Latest News</h4>
+<ul>
+  {% assign news_posts = site.news | sort: 'date' | reverse %}
+  {% for post in news_posts limit:3 %}
+    <li>
+      <strong>{{ post.date | date: "%B %d, %Y" }}</strong>: 
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
