@@ -21,7 +21,7 @@ This side-project from my PhD at Virginia Tech focused on studying plant amino a
 
 📄 **[Report of *Pratylenchus penetrans* on quince (*Cydonia oblonga*) in England](https://doi.org/10.1094/PDIS-02-25-0372-PDN)**
 
-In collaboration with my colleague and friend Victor at the Crop Science Centre, we report the presence of *Pratylenchus penetrans* on quince roots collected in Sheffield, England.
+In collaboration with my colleague and friend, Dr Victor Hugo Moura de Souza, at the Crop Science Centre, we report the presence of *Pratylenchus penetrans* on quince roots collected in Sheffield, England.
 
 ---
 
