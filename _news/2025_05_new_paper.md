@@ -2,7 +2,7 @@
 title: "Paper Alert: Two new research articles published!"
 date: 2025-05-02
 layout: archive
-authour_profile: true
+author_profile: true
 ---
 This is the first time that this has happened to me (but hopefully not the last  ) - two research articles coming out back-to-back within a week's time!
 
