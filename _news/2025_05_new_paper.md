@@ -1,7 +1,8 @@
 ---
 title: "Paper Alert: Two new research articles published!"
 date: 2025-05-02
-layout: post
+layout: archive
+authour_profile: true
 ---
 This is the first time that this has happened to me (but hopefully not the last  ) - two research articles coming out back-to-back within a week's time!
 
@@ -12,5 +13,3 @@ The first is a that I worked on during my PhD at Virginia Tech, wherein I studie
 2. New diesase report
 [Report of Pratylenchus penetrans on quince (Cydonia oblonga) in England](https://doi.org/10.1094/PDIS-02-25-0372-PDN)
 The second is a collaboration with my colleague (and friend) Victor at the Crop Science Centre, where we report presence of *Pratylenchus penetrans* on quince roots collected in Sheffield, England.
-
-
