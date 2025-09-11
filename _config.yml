@@ -170,6 +170,11 @@ kramdown:
 
 # Collections
 collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/
   teaching:
     output: true
     permalink: /:collection/:path/
