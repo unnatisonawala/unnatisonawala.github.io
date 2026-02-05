@@ -17,3 +17,5 @@ Excited to share a new **commentary** in *Molecular Plant–Microbe Interactions
 📄 **[Read the commentary in MPMI](https://apsjournals.apsnet.org/doi/10.1094/MPMI-10-25-0153-CM)**
 
 📄 And the link to the original paper **[here](https://doi.org/10.1094/MPMI-05-25-0050-SC)**
+
+---
