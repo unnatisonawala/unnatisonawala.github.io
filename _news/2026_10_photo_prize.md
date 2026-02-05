@@ -9,7 +9,7 @@ If you know me, you know I love looking at nematodes under the dissecting scope;
 
 <p align="center">
   <img src="../images/nemart_competion.png"
-       alt="Conceptual figure from the MPMI commentary"
+       alt="Nemart competition"
        width="700">
 </p>
 
