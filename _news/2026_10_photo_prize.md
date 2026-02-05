@@ -1,6 +1,6 @@
 ---
 title: "NemArt photo prize by Italian Society of Nematology  🎉"
-date: 2026-02-05
+date: 2025-10-15
 layout: archive
 author_profile: true
 ---
