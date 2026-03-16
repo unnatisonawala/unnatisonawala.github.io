@@ -18,7 +18,7 @@ If not in the lab mixing colourless liquids or wrangling some 'omics data at the
 <h3>Latest News</h3>
 <ul>
   {% assign news_posts = site.news | sort: 'date' | reverse %}
-  {% for post in news_posts limit:3 %}
+  {% for post in news_posts limit:4 %}
     <li>
       <strong>{{ post.date | date: "%B %d, %Y" }}</strong>: 
       <a href="{{ post.url }}">{{ post.title }}</a>
