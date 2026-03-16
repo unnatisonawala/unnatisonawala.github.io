@@ -5,7 +5,7 @@ layout: archive
 author_profile: true
 ---
 
-Excited to share a new **commentary** with co-Assistant Feature Editor Sand in *Molecular Plant–Microbe Interactions*.
+Excited to share a new **commentary** with co-Assistant Feature Editor Sandra in *Molecular Plant–Microbe Interactions*.
 
 <p align="center">
   <img src="/images/MPMI_Feb_2026.jpeg"
